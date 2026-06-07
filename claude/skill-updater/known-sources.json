@@ -65,7 +65,8 @@
     "agent-the-lovers",
     "agent-the-magician",
     "agent-the-star",
-    "skill-updater"
+    "skill-updater",
+    "game-hv-analysis"
   ],
   "hallow_sync": {
     "target_dir": "D:\\MuyiSong\\Project\\hallow-skills",

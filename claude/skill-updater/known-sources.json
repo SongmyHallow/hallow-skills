@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "third_party_github": {
+    "doc-coauthoring": {
+      "url": "https://github.com/anthropics/skills.git",
+      "path": "skills/doc-coauthoring",
+      "type": "git-subdir",
+      "description": "文档协作编写 skill（Anthropic 开源）"
+    },
+    "tailored-resume-generator": {
+      "url": "https://github.com/composiohq/awesome-claude-skills.git",
+      "path": "skills/tailored-resume-generator",
+      "type": "git-subdir",
+      "description": "简历定制生成器（composiohq 开源）"
+    },
+    "aihot": {
+      "url": "https://github.com/KKKKhazix/khazix-skills.git",
+      "path": "aihot",
+      "type": "git-subdir"
+    },
+    "bb-browser": {
+      "url": "https://github.com/epiral/bb-browser.git",
+      "path": "bb-browser",
+      "type": "git-subdir"
+    },
+    "find-skills": {
+      "url": "https://github.com/tongbei821/customize-skills.git",
+      "path": "findskills",
+      "type": "git-subdir"
+    },
+    "hv-analysis": {
+      "url": "https://github.com/KKKKhazix/khazix-skills.git",
+      "path": "hv-analysis",
+      "type": "git-subdir"
+    },
+    "humanizer-zh": {
+      "url": "https://github.com/op7418/Humanizer-zh.git",
+      "path": "",
+      "type": "git-root"
+    },
+    "neat-freak": {
+      "url": "https://github.com/KKKKhazix/khazix-skills.git",
+      "path": "neat-freak",
+      "type": "git-subdir"
+    },
+    "skill-updater": {
+      "url": "https://github.com/yizhiyanhua-ai/skills-updater.git",
+      "path": "skills-updater",
+      "type": "git-subdir"
+    },
+    "storage-analyzer": {
+      "url": "https://github.com/KKKKhazix/khazix-skills.git",
+      "path": "storage-analyzer",
+      "type": "git-subdir"
+    },
+    "ui-ux-pro-max": {
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "path": ".claude/skills/ui-ux-pro-max",
+      "type": "git-subdir"
+    }
+  },
+  "own_skills": [
+    "agent-the-chariot",
+    "agent-the-hierophant",
+    "agent-the-lovers",
+    "agent-the-magician",
+    "agent-the-star",
+    "skill-updater"
+  ],
+  "hallow_sync": {
+    "target_dir": "D:\\MuyiSong\\Project\\hallow-skills",
+    "claude_subdir": "claude"
+  },
+  "ignored": []
+}

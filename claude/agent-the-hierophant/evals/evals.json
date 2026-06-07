@@ -1,0 +1,72 @@
+{
+  "skill_name": "agent-the-hierophant",
+  "evals": [
+    {
+      "id": 1,
+      "name": "微信小游戏创意",
+      "prompt": "我想做一个微信小游戏，玩法是类似"合成大西瓜"但是换成合成不同的宝石，每种宝石有不同的特效。目标用户是25-35岁的上班族女性，想在通勤时间玩。我想知道：\n1. 用什么引擎开发比较合适\n2. 大概需要多长时间能做出 MVP\n3. 有什么类似的参考案例\n4. 我的这个想法有什么需要调整的地方",
+      "expected_output": "分阶段确认的工作流，包含需求澄清、技术方案对比（至少2-3个游戏引擎）、改进建议、里程碑规划和风险评估",
+      "files": [],
+      "assertions": [
+        {
+          "name": "分阶段确认",
+          "description": "输出中应明确分为4个阶段，每个阶段后等待确认"
+        },
+        {
+          "name": "技术方案对比",
+          "description": "应对比至少2-3个游戏开发方案（如Cocos Creator、LayaAir、微信原生等）"
+        },
+        {
+          "name": "改进建议",
+          "description": "应提供具体的改进建议，而非泛泛而谈"
+        },
+        {
+          "name": "风险评估",
+          "description": "应包含风险表格和应对策略"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "AI工具类Web应用",
+      "prompt": "我有一个想法，想做一个AI辅助写周报的工具。用户可以输入这周做过的事情（几句话），然后AI帮他整理成一份专业的周报。还可以选择不同的风格（正式/轻松/数据驱动）。希望是一个网页应用，最好可以免费部署。帮我评估一下这个想法的可行性。",
+      "expected_output": "Web应用技术选型对比、AI集成方案、部署建议、工作流规划和改进建议",
+      "files": [],
+      "assertions": [
+        {
+          "name": "Web技术选型",
+          "description": "应提供Web应用技术栈对比（前端框架+后端+AI接口+部署方案）"
+        },
+        {
+          "name": "AI方案评估",
+          "description": "应讨论AI集成方案（OpenAI/Claude/开源模型等）及成本"
+        },
+        {
+          "name": "免费部署建议",
+          "description": "应提供免费部署方案（Vercel/Netlify/Cloudflare等）"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "跨平台APP想法",
+      "prompt": "我想做一个习惯打卡APP，核心功能是：\n1. 可以设置每日/每周/每月习惯\n2. 打卡时有简单的动画反馈\n3. 可以查看统计图表（周/月/年）\n4. 数据同步到云端\n\n希望同时支持iOS和Android，但我不想维护两套代码。预算有限，我是独立开发者。帮我做一下技术预研和可行性评估。",
+      "expected_output": "跨平台方案对比（React Native/Flutter等）、数据同步方案、开发周期估算、成本分析和改进建议",
+      "files": [],
+      "assertions": [
+        {
+          "name": "跨平台方案对比",
+          "description": "应对比React Native、Flutter等跨平台方案"
+        },
+        {
+          "name": "后端/数据方案",
+          "description": "应讨论数据同步方案（Firebase/Supabase/自建等）"
+        },
+        {
+          "name": "成本分析",
+          "description": "应包含独立开发者视角的成本估算"
+        }
+      ]
+    }
+  ]
+}

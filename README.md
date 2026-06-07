@@ -14,8 +14,18 @@ hallow-skills/
 
 ## 使用方式
 
-// TODO
+将 claude/ 目录中的 skill 复制到 ~/.claude/skills/ 下即可使用：
+```bash
+cp -r claude/<skill-name> ~/.claude/skills/
+```
 
 ## 技能列表
 
-// TODO
+- **agent-the-chariot**: >
+- **agent-the-hierophant**: |
+- **agent-the-lovers**: |
+- **agent-the-magician**: >
+- **agent-the-star**: |
+
+---
+*自动生成于 2026-06-07 11:00*

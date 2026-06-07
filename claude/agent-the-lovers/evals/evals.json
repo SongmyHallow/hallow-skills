@@ -1,0 +1,23 @@
+{
+  "skill_name": "agent-the-lovers",
+  "evals": [
+    {
+      "id": 1,
+      "eval_name": "gui-inventory-spec",
+      "prompt": "我要给Godot游戏做一个背包界面，像《哈迪斯》那种横版卷轴式的RPG游戏，黑暗奇幻风格。帮我设计背包GUI的结构化规格，包括色调、布局、状态（默认/悬浮/选中/禁用），方便我后续给美术参考。",
+      "expected_output": "结构化的GUI规格文档，包含色值、ASCII布局图、状态描述、字体规范"
+    },
+    {
+      "id": 2,
+      "eval_name": "weapon-copywriting",
+      "prompt": "我要给一把剑做包装，它的效果是每次攻击有30%概率释放一道月牙形剑气。请帮我想一个符合黑暗奇幻风格的名字，给出它的背景描述和短描述（悬浮提示用的）。",
+      "expected_output": "武器命名 + 短描述（悬浮提示）+ 背景故事描述，符合黑暗奇幻语气"
+    },
+    {
+      "id": 3,
+      "eval_name": "style-guide-from-scratch",
+      "prompt": "我刚用Godot 4起了一个新项目，是俯视角Roguelike游戏，想走东方幻想风格（类似《空洞骑士》但是中国风），目标玩家是喜欢探索的独立游戏玩家。请帮我定义一下这个游戏的视觉和文案风格规范。",
+      "expected_output": "完整的风格规范文档，包含色调、画风关键词、文案语气、命名规则、禁忌清单"
+    }
+  ]
+}

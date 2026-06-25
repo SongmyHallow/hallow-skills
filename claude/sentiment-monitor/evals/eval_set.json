@@ -1,0 +1,82 @@
+[
+  {
+    "query": "帮我看看原神5.7版本更新后各平台的玩家口碑，特别是新角色强度和剧情评价",
+    "should_trigger": true
+  },
+  {
+    "query": "王者荣耀新赛季上线两天了，帮我快速扫一下微博和贴吧的风向，看看有没有重大bug或者喷点",
+    "should_trigger": true
+  },
+  {
+    "query": "绝区零这次1.2版本被骂惨了，帮我做个专题分析，看看主要槽点在哪几个方面",
+    "should_trigger": true
+  },
+  {
+    "query": "鸣潮下个版本要上线了，我想了解下目前玩家社区的期待值和主要担忧，去贴吧和B站看看",
+    "should_trigger": true
+  },
+  {
+    "query": "帮我出一份三角洲行动上线后首周的舆情报告，覆盖抖音B站贴吧小红书",
+    "should_trigger": true
+  },
+  {
+    "query": "永劫无间五周年福利发完之后玩家反应怎么样，和发布会前的预期对比一下",
+    "should_trigger": true
+  },
+  {
+    "query": "崩坏星穹铁道3.0大版本更新，我想知道玩家对新剧情和新地图的评价",
+    "should_trigger": true
+  },
+  {
+    "query": "暗区突围和三角洲行动最近都在搞活动，帮我对比一下两边社区的舆论氛围",
+    "should_trigger": true
+  },
+  {
+    "query": "帮我做一份D90近一个月的舆情月度报告，主要看付费和平衡性两个维度的玩家反馈",
+    "should_trigger": true
+  },
+  {
+    "query": "黑神话悟空发售后三个月了，玩家口碑有没有变化，帮我扫一下现在的舆论状态",
+    "should_trigger": true
+  },
+  {
+    "query": "帮我查一下D90最近七天的日活和付费数据",
+    "should_trigger": false
+  },
+  {
+    "query": "炉石传说回归后新卡强度排行和卡组推荐，帮我整理一下",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我写一篇分析原神纳塔剧情和世界观设定的文章",
+    "should_trigger": false
+  },
+  {
+    "query": "Steam新品节最近有什么好评多的独立游戏推荐？",
+    "should_trigger": false
+  },
+  {
+    "query": "D90的角色技能伤害公式是什么，帮我从配表查一下",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我压缩一下昨天录的那个游戏实况视频，太大了传不上去",
+    "should_trigger": false
+  },
+  {
+    "query": "绝区零1.2版本更新公告里具体修了哪些bug，帮我列一下",
+    "should_trigger": false
+  },
+  {
+    "query": "小红书最近UI设计趋势有什么变化，帮我看看参考一下",
+    "should_trigger": false
+  },
+  {
+    "query": "王者荣耀新英雄的玩法机制拆解和连招教学，帮我整理",
+    "should_trigger": false
+  },
+  {
+    "query": "最近游戏行业有什么投融资和大厂动态，帮我扫一下",
+    "should_trigger": false
+  }
+]
